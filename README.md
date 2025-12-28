@@ -54,7 +54,7 @@ flower_classification_project/
 
 ### 🔗 Training Notebook
 
-👉 **[Add Google Colab / Notebook Link Here]**
+👉 **[[Google Colab](https://colab.research.google.com/drive/1CTXmG4tD-XBCcJh_5KyVfoACzpWWz8C3?usp=sharing)]**
 
 ---
 
@@ -109,13 +109,6 @@ streamlit run app.py
 
 ---
 
-## 📌 Dataset
-
-* **Flowers Recognition Dataset**
-* Source: Kaggle
-  👉 [https://www.kaggle.com/datasets/alxmamaev/flowers-recognition](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition)
-
----
 
 ## 📈 Future Improvements
 
